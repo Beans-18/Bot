@@ -10,7 +10,7 @@ import sqlite3
 import aiohttp
 import roblox
 from roblox import UserNotFound
-system_url = "https://discord.com/api/webhooks/980544673254879303/4DuvHDJSeokg9WuDAY35BvJ5WaWxAhniE7mQcJfS33Dcr9kOmCONf00qEjn_he7QmQ9z"
+system_url = [REDACTED]
 
 from discord_webhook import AsyncDiscordWebhook
 import dotenv
